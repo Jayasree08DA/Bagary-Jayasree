@@ -1,4 +1,4 @@
-### Hi there 👋, Bagary Jayasree
+### Bagary Jayasree
 #### Aspiring Data analyst 
 ![Aspiring Data analyst ](https://media.licdn.com/dms/image/D5616AQEGH568bjo_KQ/profile-displaybackgroundimage-shrink_200_800/0/1682459638394?e=2147483647&v=beta&t=q788JreR5vIeHFu5b9eUiojSZk7Re3UubBYV_xubw_I)
 
@@ -6,7 +6,6 @@ I'm currently pursuing a course on Data analyst
 
 Skills: Excel | SQL | Microsoft Power BI | Tableau | Python | R language | Business Statistics.
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Data Analyst  
 
 
